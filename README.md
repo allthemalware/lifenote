@@ -81,3 +81,7 @@ and `max-visible`.
   styles + critical) over a checkerboard, no Wayland/DBus needed.
 - `lifenote --selftest` — drive the live UI with staged fake notifications,
   no DBus (mako can keep running).
+
+---
+
+This repository is published from the `lifenote/` directory of [LifeBranch](https://github.com/TheWhyteWolf/LifeBranch), where development happens.
