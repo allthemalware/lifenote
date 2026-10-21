@@ -84,4 +84,4 @@ and `max-visible`.
 
 ---
 
-This repository is published from the `lifenote/` directory of [LifeBranch](https://github.com/TheWhyteWolf/LifeBranch), where development happens.
+This repository is published from the `lifenote/` directory of [LifeBranch](https://github.com/allthemalware/LifeBranch), where development happens.
